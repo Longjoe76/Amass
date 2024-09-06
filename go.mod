@@ -25,7 +25,6 @@ require (
 	github.com/geziyor/geziyor v0.0.0-20211005191300-b8bda36f921c
 	github.com/go-ini/ini v1.63.2
 	github.com/go-kit/kit v0.12.0 // indirect
-	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/uuid v1.3.0
 	github.com/mattn/go-colorable v0.1.11 // indirect
 	github.com/miekg/dns v1.1.43
@@ -36,7 +35,7 @@ require (
 	github.com/yuin/gopher-lua v0.0.0-20210529063254-f4c35e4016d9
 	golang.org/x/net v0.0.0-20211006190231-62292e806868
 	golang.org/x/oauth2 v0.0.0-20211005180243-6b3c2da341f1
-	golang.org/x/sys v0.0.0-20211006225509-1a26e0398eed // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	golang.org/x/tools v0.1.7 // indirect
 	layeh.com/gopher-json v0.0.0-20201124131017-552bb3c4c3bf
